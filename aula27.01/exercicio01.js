@@ -61,4 +61,6 @@
         let diasDaSemana = ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"];
         let diaAtual = diasDaSemana[hoje.getDay()];
         alert("Hoje é: " + diaAtual);
+    } else if(exercicios == 8) {
+        
     }
